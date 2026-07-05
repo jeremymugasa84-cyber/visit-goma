@@ -93,7 +93,7 @@ nav a:hover {
 .hero {
     position: relative;
     height: 60vh;
-    background-image: url('../image/Goma.jpg');
+    background-image: url('Goma.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
